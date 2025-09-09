@@ -34,19 +34,19 @@ that lets you open the camera, capture photos, and preview them instantly.
 
 2. **Install dependencies**
 
-```bash
+    ```bash
     npm install
-    # or
+# or
     yarn install
 
-```
+    ```
 
 3. **Start the development server**
 
-```bash
-npx expo start
+    ```bash
+    npx expo start
 
-```
+    ```
 
 **Tech Stack**
 
