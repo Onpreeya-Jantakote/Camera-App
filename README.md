@@ -36,7 +36,7 @@ that lets you open the camera, capture photos, and preview them instantly.
 
     ```bash
     npm install
-# or
+    # or
     yarn install
 
     ```
